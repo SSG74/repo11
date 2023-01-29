@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\bin\Debug\net7.0\testR11.exe
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\bin\Debug\net7.0\testR11.deps.json
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\bin\Debug\net7.0\testR11.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\bin\Debug\net7.0\testR11.dll
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\bin\Debug\net7.0\testR11.pdb
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.dll
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\refint\testR11.dll
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.pdb
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\testR11.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Test\TestR11\testR11\obj\Debug\net7.0\ref\testR11.dll
